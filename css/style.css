@@ -2,9 +2,25 @@ body{
     font-family: 'Roboto',
     sans-serif;
 }
+
+
+/* Header Section start */
 header, .header-iteam-bg {
     background-color: #FEFDE6;
 }
+
+.heading-name {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 80px;
+    color: rgb(39, 34, 88);
+}
+
+.heading-name span {
+    color: rgb(102, 173, 88);
+}
+/* Header Section End */
+
+
 
 /* Second Section start */
 
@@ -20,13 +36,20 @@ header, .header-iteam-bg {
 }
 /* Second Section start */
 
+
 /* third Section start */
+.Section-heading-name {
+    font-family: 'Bebas Neue',
+        cursive;
+    font-size: 40px;
+}
 
 .card-border{
     border-radius: 20px;
     border: 0;
 }
 .card-image {
+    padding: 30px;
     border-radius: 10px;
     background-color: rgb(219, 219, 219);
 }
@@ -41,3 +64,17 @@ header, .header-iteam-bg {
     color: white;
 }
 /* third Section start */
+
+
+
+/* Fifth Section start */
+.btn-subscribe{
+    background-color: rgb(26, 21, 71);
+    color: white;
+}
+.btn-subscribe:hover{
+    background-color: white;
+    border: 2px solid rgb(26, 21, 71);
+    color: rgb(26, 21, 71);
+}
+/* Fifth Section End */
