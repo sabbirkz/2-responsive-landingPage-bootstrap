@@ -19,3 +19,25 @@ header, .header-iteam-bg {
     color: rgb(26, 21, 71);
 }
 /* Second Section start */
+
+/* third Section start */
+
+.card-border{
+    border-radius: 20px;
+    border: 0;
+}
+.card-image {
+    border-radius: 10px;
+    background-color: rgb(219, 219, 219);
+}
+.price-color{
+    color: rgba(48, 204, 82, 0.897);
+}
+.button-color{
+    background-color: rgb(26, 21, 71);
+    color: white;
+}
+.button-color:hover{
+    color: white;
+}
+/* third Section start */
