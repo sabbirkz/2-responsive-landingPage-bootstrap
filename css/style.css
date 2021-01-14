@@ -5,3 +5,17 @@ body{
 header, .header-iteam-bg {
     background-color: #FEFDE6;
 }
+
+/* Second Section start */
+
+.icon-images{
+    padding-top: 8px;
+    width: 20%;
+}
+.second-section-border{
+    border-radius: 20px;
+}
+.second-section-text{
+    color: rgb(26, 21, 71);
+}
+/* Second Section start */
